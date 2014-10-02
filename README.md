@@ -1,2 +1,3 @@
 CryptoCode
 ==========
+My cryptocurency project.
